@@ -10,15 +10,7 @@ Customer Lifetime Value adalah sebuah istilah dalam Subscription Business yang m
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+* Python Libraries : sklearn, XGBoost, category_encoders
 
 ## Authors
 
