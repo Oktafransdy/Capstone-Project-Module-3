@@ -10,7 +10,7 @@ Customer Lifetime Value adalah sebuah istilah dalam Subscription Business yang m
 
 ### Dependencies
 
-* Python Libraries : sklearn, XGBoost, category_encoders
+* Python Libraries : sklearn, XGBoost, category_encoders, pandas, numpy, matplotlib, seaborn
 
 ## Authors
 
